@@ -28,7 +28,7 @@ int main()
     int product;
     int goods;
 
-    int shmid = shmget(5240362, sizeof(struct shared_memory), IPC_CREAT|0600);
+    int shmid = shmget(2540362, sizeof(struct shared_memory), IPC_CREAT|0600);
     struct shared_memory* memory;
     if(shmid < 0)
     {
