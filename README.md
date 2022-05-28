@@ -1,7 +1,8 @@
 # PwUNIX
-Programowanie w systemie UNIX - Part of university assignment using C
 
 Assignment was about multiprocess interactions. 
+
+Programowanie w systemie UNIX - Part of university assignment using C
 
 Producers and Customers are using same shared memory. Producers create set number of random goods. Customers consume set number of random products. 
 
