@@ -1,6 +1,6 @@
 # PwUNIX
 
-Assignment was about multiprocess interactions. 
+Assignment about multiprocess interactions. 
 
 Programowanie w systemie UNIX - Part of university assignment using C
 
